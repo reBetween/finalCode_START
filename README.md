@@ -13,9 +13,17 @@
   pip install imutils  
   pip install scipy  
 
-opencv objectdetection
-객체가 있는 부분만 이미지 자르기
+opencv objectdetection - 객체가 있는 부분만 이미지 자르기
 ![image](https://user-images.githubusercontent.com/81168694/205675898-91e87e4b-ab1f-4fe8-b720-702c60c778f3.png)
+
+opencvLen - 객체의 길이 측정
+![image](https://user-images.githubusercontent.com/113959581/205778779-71483e2f-e94b-43b9-beea-af7f470aa640.png)
+
+(1) grabcut algorithm
+![image](https://user-images.githubusercontent.com/113959581/205778822-22142629-9d73-4f41-9e55-4d812397e581.png)
+
+(2) cvzone
+![image](https://user-images.githubusercontent.com/113959581/205778855-edf17b7c-541d-4bf5-8e95-7b6201d736a9.png)
 
 
 # Keras CNN model - 실행환경: Google Colaboratory
