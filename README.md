@@ -62,4 +62,4 @@
 ![image](https://user-images.githubusercontent.com/81168694/205818168-0565a47a-9242-43a2-9b06-282479b8623e.png)  
 
 5. 중고거래지원 - 구매시기, 착용시기, 착용하는 동안 아이 신체 정보 자동 기입  
-![image](https://user-images.githubusercontent.com/81168694/205818473-c800df26-d892-4348-b9ff-ea9a01ea7ed7.png)
+![image](https://user-images.githubusercontent.com/81168694/205818843-0fbc9000-69f6-411c-a15d-ac7c78877ede.png)
