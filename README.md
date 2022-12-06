@@ -28,7 +28,14 @@
 
 ![image](https://user-images.githubusercontent.com/113959581/205778855-edf17b7c-541d-4bf5-8e95-7b6201d736a9.png)
 
-opencv 
+**opencvLen** - 객체 길이 측정 (왼쪽의 규격화된 물체 기준으로 측정)
+
+![image](https://user-images.githubusercontent.com/113959581/205779213-be7b92f4-9fcf-4549-80aa-2ccb734fdd03.png)
+
+![image](https://user-images.githubusercontent.com/113959581/205779227-7b44fea2-1f9e-4b41-a764-c3233bc1efae.png)
+
+
+
 # Keras CNN model - 실행환경: Google Colaboratory
 활용한 이미지 (전처리전 원본 이미지 - 예시)는 다음과 같음
 
