@@ -1,6 +1,6 @@
 우리 아이 옷장 [아장]
 ===================
-
+기술 요소에 대한 코드 실행 과정은 제출한 시연영상을 참고해주세요~(링크: https://youtu.be/3TVrVTqvrPE)
 ![image](https://user-images.githubusercontent.com/81168694/205673839-162dbb55-4426-430b-9d5b-9fd8a39a57e7.png)
 
 **2022-2 캡스톤디자인과창업프로젝트 스타트 COYD**
