@@ -7,7 +7,7 @@
 
 주제: 성장주기별 아이용 스마트 옷장 관리 서비스
 
-# openCV - 실행 전 라이브러리 설치 코드
+# openCV - 실행 전 라이브러리 설치 코드(CMD창에서 설치 후 실행해주세요!)
   pip install cvzone  
   pip install matplotlib  
   pip install imutils  
@@ -31,7 +31,7 @@
 
 ![image](https://user-images.githubusercontent.com/113959581/205778855-edf17b7c-541d-4bf5-8e95-7b6201d736a9.png)
 
-**opencvLen** - 객체 길이 측정 (왼쪽의 규격화된 물체 기준으로 측정)
+**opencvLen** - 객체 길이 측정 (가장 좌측에 위치한 규격화된 물체 기준으로 측정)
 
 ![image](https://user-images.githubusercontent.com/113959581/205779213-be7b92f4-9fcf-4549-80aa-2ccb734fdd03.png)
 
