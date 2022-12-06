@@ -50,17 +50,16 @@
 
 # Prototype Image
 1. 회원가입 - 아이의 정보 입력  
-![image](https://user-images.githubusercontent.com/81168694/205675005-277e2c2c-2e63-4811-aacc-e246f5fcae63.png)  
+![image](https://user-images.githubusercontent.com/81168694/205817337-02acf216-bfb6-44b8-99bf-867ef7c81ef1.png)  
 
 2. 아이 옷 촬영 - 외곽선 검출 후 옷 스캔, 옷 사이즈 측정  
-![image](https://user-images.githubusercontent.com/81168694/205675122-f82f79d9-e728-44e3-8fad-d624a73ed448.png)  
+![image](https://user-images.githubusercontent.com/81168694/205817846-ec8e69fe-7eb8-43e8-af64-7a2958826ace.png)  
 
 3. 스마트 옷장 - 카테고리별 분류 / 성장 단계별 옷 입는 기간 확인  
-![image](https://user-images.githubusercontent.com/81168694/205675397-4fcc39b7-9d29-41dc-9662-1a461aef3c91.png)  
+![image](https://user-images.githubusercontent.com/81168694/205818080-54ac39b0-5800-4d3f-a95e-541083b94398.png)  
 
 4. 사이즈 확인 팝업 - 주기적으로 성장 기록, 맞지 않는 옷 분석  
-![image](https://user-images.githubusercontent.com/81168694/205675509-041b043f-67f1-4bf0-b5a3-fb264fdff4bc.png)  
+![image](https://user-images.githubusercontent.com/81168694/205818168-0565a47a-9242-43a2-9b06-282479b8623e.png)  
 
 5. 중고거래지원 - 구매시기, 착용시기, 착용하는 동안 아이 신체 정보 자동 기입  
-![image](https://user-images.githubusercontent.com/81168694/205675621-919c6c79-ac32-479d-b061-0ae2465f0427.png)  
-
+![image](https://user-images.githubusercontent.com/81168694/205818473-c800df26-d892-4348-b9ff-ea9a01ea7ed7.png)
