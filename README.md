@@ -13,7 +13,8 @@
   pip install imutils  
   pip install scipy  
 
-# 사진 파일 필요 --> 코드에 절대경로/파일명 기입 필요
+# 사진 파일 필요 
+--> 코드에 절대경로/파일명 기입 필요
 
 **opencv objectdetection** - 객체가 있는 부분만 이미지 자르기
 ![image](https://user-images.githubusercontent.com/81168694/205675898-91e87e4b-ab1f-4fe8-b720-702c60c778f3.png)
